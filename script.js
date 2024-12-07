@@ -5,7 +5,7 @@ const buysFor = {
     Denis: "Cada",
     Maddy: "Alasdair",
     Maders: "Jim",
-    Erick: "Stephanie",
+    Erick: "Steph",
     Cada: "Margaret",
     Steve: "Maders",
     Felicity: "Denis",
