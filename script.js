@@ -21,7 +21,7 @@ const heading = document.getElementById("heading");
 // Populate the grid with images
 Object.keys(buysFor).forEach(name => {
     const img = document.createElement("img");
-    img.src = `${name}.png`;
+    img.src = `${name}.jpg`;
     img.alt = name;
     img.dataset.buyer = name;
     img.dataset.receiver = buysFor[name];
@@ -38,7 +38,7 @@ grid.addEventListener("click", event => {
         heading.textContent = `${buyer} buys for ${receiver}`;
 
         // Update image to show the receiver
-        event.target.src = `${receiver}.png`;
+        event.target.src = `${receiver}.jpg`;
         event.target.alt = receiver;
 
         // Swap buyer and receiver for toggling
