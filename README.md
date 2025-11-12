@@ -1,4 +1,4 @@
-# Proposed updates to the firm’s 7‑digit industry taxonomy (aligned to V2 SALI & 2022 NAICS)
+# Proposed 7‑digit updates to the SALI's industry taxonomy (aligned to V2 SALI & 2022 NAICS)
 
 Below are “parent” V2 SALI & 2022 NAICS codes with recommended 7‑digit extensions.
 
